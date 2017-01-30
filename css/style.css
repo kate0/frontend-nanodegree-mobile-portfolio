@@ -48,9 +48,9 @@ footer span { float: right; font-style: italic; }
   header p { padding-left: 4.5em;}
 }
 
-Slider
+/* Slider */
 
--------------------------------- */
+
 .cd-slider-wrapper {
   position: relative;
   height: 100vh;
